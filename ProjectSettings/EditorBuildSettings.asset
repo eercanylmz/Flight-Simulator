@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Animasyon.unity
+    guid: 8ebe3b59767c7054ea051882ef2e2e34
+  - enabled: 1
+    path: "Assets/Scenes/S\u0130MPLE.unity"
+    guid: 81f8fbbdd8e6de9408337cb52b8309ad
+  - enabled: 1
+    path: Assets/Scenes/Mission.unity
+    guid: 45032f9c36b4ccd41a3cd2712545f3d3
+  - enabled: 1
+    path: "Assets/Scenes/Race\u0130ntro.unity"
+    guid: 10440ab2c524ce64ebb914e235554c91
+  - enabled: 1
+    path: Assets/Scenes/RaceLvl1.unity
+    guid: 629e349b35f5fa444903fb131a9139a7
+  - enabled: 1
+    path: "Assets/Scenes/Transport\u0130ntro.unity"
+    guid: d12e6da4f6ad45240bace4c165815233
+  - enabled: 1
+    path: Assets/Scenes/TransportLvl1.unity
+    guid: c88df2dcddb546042a13dec31cd299e9
+  - enabled: 1
+    path: Assets/Scenes/TransportLvl2.unity
+    guid: 2ca86e72aaea26340aaaedd4d0e15d18
+  - enabled: 1
+    path: Assets/Scenes/TransportLvl3.unity
+    guid: 59db3d7225e12d94d9449ace4db66a42
+  - enabled: 1
+    path: "Assets/Scenes/Park\u0130ntro.unity"
+    guid: 8996fa8ab4d551a4293775f15b4ae286
+  - enabled: 1
+    path: Assets/Scenes/Park.unity
+    guid: 89e2f2ba10c6fad4db9fc387c91e09ce
+  - enabled: 1
+    path: Assets/Scenes/Park 2.unity
+    guid: f4a5d564704fd324eac8f89fd494bf4f
+  - enabled: 1
+    path: Assets/Scenes/Park 3.unity
+    guid: 92c96aae02921f140b27fcf32d676cb5
+  - enabled: 1
+    path: Assets/Scenes/RaceLvl2.unity
+    guid: ecdd5f90591fe7141b502a7727cecc24
+  - enabled: 1
+    path: Assets/Scenes/RaceLvl3.unity
+    guid: b121e2daec3d47f4ea078268438dbfd3
+  m_configObjects:
+    com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000,
+      guid: 8311cde3768372e489896120d1ddc74b, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 265d4b5002a58d14c9a9e0720d2feaa2,
+      type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000,
+      guid: 624e6ad63793c71499fc65eede5c6a62, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000,
+      guid: d1f45a083645f684084ffb10d316dfc7, type: 2}
